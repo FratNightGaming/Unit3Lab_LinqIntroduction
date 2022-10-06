@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\bin\Debug\net6.0\Linq_Objects_Introduction.exe
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\bin\Debug\net6.0\Linq_Objects_Introduction.deps.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\bin\Debug\net6.0\Linq_Objects_Introduction.runtimeconfig.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\bin\Debug\net6.0\Linq_Objects_Introduction.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\bin\Debug\net6.0\Linq_Objects_Introduction.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\refint\Linq_Objects_Introduction.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\Linq_Objects_Introduction.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\Linq_Objects_Introduction\obj\Debug\net6.0\ref\Linq_Objects_Introduction.dll
